@@ -1,0 +1,35 @@
+ @media (max-width:1024px) {
+    .parent-of-div1 {
+        flex-direction: column;
+        align-items: center;
+    }
+    .parent-of-div2 {
+        flex-direction: column;
+        align-items: center;
+    }
+    .div1 {
+        margin-top: 15px;
+    }
+    .text-div {
+        margin-left: 5px;
+        margin: 0 auto;
+    }
+}
+
+@media (max-width:768px) {
+    .parent-of-div1 {
+        flex-direction: column;
+        align-items: center;
+    }
+    .parent-of-div2 {
+        flex-direction: column;
+        align-items: center;
+    }
+    .div1 {
+        margin-top: 15px;
+    }
+    .text-div {
+        margin-left: 5px;
+        margin: 0 auto;
+    }
+}
