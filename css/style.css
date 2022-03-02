@@ -93,8 +93,8 @@ li {
 }
 .div1 {
     background-color: #6f00ff;
-    width: 350px;
-    /* height: 250px; */
+    max-width: 450px;
+    width: 100%;
     display: flex;
     flex-direction: column;
     align-items: center;
